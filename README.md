@@ -1,14 +1,18 @@
-File Sharing App
-This is a simple file-sharing application that allows users to upload files and get a shareable URL. Users can share this URL with their friends to access the uploaded files. The application is built using MongoDB for the backend, React for the frontend, and the Express framework.
+📁 File Sharing App
+A simple and secure file-sharing application that allows users to upload files and generate shareable URLs. Built with the MERN stack (MongoDB, Express.js, React, Node.js), this app ensures smooth file uploads and access via unique links.
 
-Features
-Upload Files: Users can upload files to the server.
-Shareable URL: Once a file is uploaded, a URL is generated that can be shared with others.
-Secure Storage: Files are stored securely in the backend.
-Responsive Design: The frontend is built with React, providing a seamless user experience across different devices.
+✨ Features
+📤 Upload Files: Users can upload any file to the server.
 
+🔗 Shareable URL: Instantly get a unique URL to share with friends or colleagues.
 
-Technology Stack
-Frontend: React
-Backend: Express.js
+🔒 Secure Storage: Files are stored securely on the backend.
+
+📱 Responsive UI: Clean, mobile-friendly interface built with React for a smooth experience across devices.
+
+🛠️ Tech Stack
+Frontend: React.js
+
+Backend: Express.js (Node.js)
+
 Database: MongoDB
